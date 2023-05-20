@@ -33,3 +33,4 @@ The video window will display the frames with the overlay of estimated optical f
 Press the 'q' key to stop the program and close the windows.
 
 ## OUTPUT 
+![im](https://github.com/VEERA-3/MOTION_TRACKING/assets/88039094/200b6351-ff5c-4216-96ad-0a867c75c9d8)
